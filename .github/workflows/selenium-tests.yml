@@ -1,3 +1,4 @@
+# Trigger workflow on push and pull requests to main
 on:
   push:
     branches: ["main"]
